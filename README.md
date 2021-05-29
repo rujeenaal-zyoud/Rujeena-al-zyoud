@@ -1,12 +1,9 @@
-# Rujeena Al-zyoud
-![RujeenaGitHubstats](https://github-readme-stats.vercel.app/api?username=rujeenaalzyoud&show_icons=true&theme=radical)
+# Hello 👋
+
+[![Rujeena GitHub stats](https://github-readme-stats.vercel.app/api?username=rujeenaal-zyoud&theme=dark&show_icons=true)](https://github.com/rujeenaal-zyoud)
 
 
 
-![RujeenaGitHub stats](https://github-readme-stats.vercel.app/api?username=rujeenaalzyoud&show_icons=true)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rujeenaalzyoud&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rujeenaal-zyoud&theme=dark&show_icons=true)](https://github.com/rujeenaal-zyoud)
 
